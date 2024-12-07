@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1">
+    <mxGraphModel dx="1284" dy="1165" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" value="Page-1" style="group" vertex="1" connectable="0">
+          <mxGeometry x="0" y="0" width="827" height="1169" as="geometry"/>
+        </mxCell>
+        <mxCell id="1" value="Frontend" style="swimlane;childLayout=stackLayout;horizontal=1;whiteSpace=wrap;html=1;rounded=1;" vertex="1" connectable="0">
+          <mxGeometry x="0" y="0" width="200" height="600" as="geometry"/>
+        </mxCell>
+        <mxCell id="2" value="Mobile App" style="rounded;whiteSpace=wrap;html=1;fillColor=#ffcccc;" vertex="1" connectable="1">
+          <mxGeometry x="0.2" y="0.1" width="160" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="3" value="Web App" style="rounded;whiteSpace=wrap;html=1;fillColor=#cceeff;" vertex="1" connectable="1">
+          <mxGeometry x="0.2" y="0.3" width="160" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="4" value="Backend" style="swimlane;childLayout=stackLayout;horizontal=1;whiteSpace=wrap;html=1;rounded=1;" vertex="1" connectable="0">
+          <mxGeometry x="0.4" y="0" width="200" height="600" as="geometry"/>
+        </mxCell>
+        <mxCell id="5" value="Authentication Service" style="rounded;whiteSpace=wrap;html=1;fillColor=#ffeb99;" vertex="1" connectable="1">
+          <mxGeometry x="0.2" y="0.1" width="160" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="6" value="Ride Matching Service" style="rounded;whiteSpace=wrap;html=1;fillColor=#ffff99;" vertex="1" connectable="1">
+          <mxGeometry x="0.2" y="0.3" width="160" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="7" value="Payment Service" style="rounded;whiteSpace=wrap;html=1;fillColor=#ff99cc;" vertex="1" connectable="1">
+          <mxGeometry x="0.2" y="0.5" width="160" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="8" value="External Systems" style="swimlane;childLayout=stackLayout;horizontal=1;whiteSpace=wrap;html=1;rounded=1;" vertex="1" connectable="0">
+          <mxGeometry x="0.6" y="0" width="200" height="600" as="geometry"/>
+        </mxCell>
+        <mxCell id="9" value="Payment Gateway" style="rounded;whiteSpace=wrap;html=1;fillColor=#c6e2ff;" vertex="1" connectable="1">
+          <mxGeometry x="0.2" y="0.1" width="160" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="10" value="Google Maps API" style="rounded;whiteSpace=wrap;html=1;fillColor=#ccffcc;" vertex="1" connectable="1">
+          <mxGeometry x="0.2" y="0.3" width="160" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="11" value="Notification Gateway" style="rounded;whiteSpace=wrap;html=1;fillColor=#f2d5a3;" vertex="1" connectable="1">
+          <mxGeometry x="0.2" y="0.5" width="160" height="80" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
